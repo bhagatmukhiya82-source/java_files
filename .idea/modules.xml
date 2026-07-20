@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AcceptAge/AcceptAge.iml" filepath="$PROJECT_DIR$/AcceptAge/AcceptAge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo/Demo.iml" filepath="$PROJECT_DIR$/Demo/Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gender/Gender.iml" filepath="$PROJECT_DIR$/Gender/Gender.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Number analysis/Number analysis.iml" filepath="$PROJECT_DIR$/Number analysis/Number analysis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Rectangle/Rectangle.iml" filepath="$PROJECT_DIR$/Rectangle/Rectangle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StoreMarks/StoreMarks.iml" filepath="$PROJECT_DIR$/StoreMarks/StoreMarks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StudentRegistration/StudentRegistration.iml" filepath="$PROJECT_DIR$/StudentRegistration/StudentRegistration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TextFieldEXample/TextFieldEXample.iml" filepath="$PROJECT_DIR$/TextFieldEXample/TextFieldEXample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/array/array.iml" filepath="$PROJECT_DIR$/array/array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arraysum/arraysum.iml" filepath="$PROJECT_DIR$/arraysum/arraysum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cal/cal.iml" filepath="$PROJECT_DIR$/cal/cal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cc/cc.iml" filepath="$PROJECT_DIR$/cc/cc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day2_java.iml" filepath="$PROJECT_DIR$/day2_java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/display/display.iml" filepath="$PROJECT_DIR$/display/display.iml" />
+      <module fileurl="file://$PROJECT_DIR$/even odd/even odd.iml" filepath="$PROJECT_DIR$/even odd/even odd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exp/exp.iml" filepath="$PROJECT_DIR$/exp/exp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exp6/exp6.iml" filepath="$PROJECT_DIR$/exp6/exp6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/factor/factor.iml" filepath="$PROJECT_DIR$/factor/factor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/firstawtwindow/firstawtwindow.iml" filepath="$PROJECT_DIR$/firstawtwindow/firstawtwindow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/happy/happy.iml" filepath="$PROJECT_DIR$/happy/happy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kdnk/kdnk.iml" filepath="$PROJECT_DIR$/kdnk/kdnk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lastdigit/lastdigit.iml" filepath="$PROJECT_DIR$/lastdigit/lastdigit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/main/main.iml" filepath="$PROJECT_DIR$/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/msn/msn.iml" filepath="$PROJECT_DIR$/msn/msn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/njbia/njbia.iml" filepath="$PROJECT_DIR$/njbia/njbia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nk/nk.iml" filepath="$PROJECT_DIR$/nk/nk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice/practice.iml" filepath="$PROJECT_DIR$/practice/practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ranbir/ranbir.iml" filepath="$PROJECT_DIR$/ranbir/ranbir.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled1/untitled1.iml" filepath="$PROJECT_DIR$/untitled1/untitled1.iml" />
+    </modules>
+  </component>
+</project>
